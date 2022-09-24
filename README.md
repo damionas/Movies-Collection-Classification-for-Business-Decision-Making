@@ -43,6 +43,20 @@
          #r2 for train dataset is showing bigger than test data set because we have trained our model on our train dataset and it will always perform better on the     dataset of which it was trained.
          
          
+         ###Plotting decision tree
          
-     
+
+
+![image](https://user-images.githubusercontent.com/64482231/192121806-343916eb-ff4c-4c5d-9ac7-37a31dcceec2.png)
+
+
+
+
+
+
+
+
+
+X[3] REFERS TO THE fourth varaible of the X dataset, 37982.312 = the condition, if the budget is less than thirty seven thousand, then it will follow this branch and vice versa.
+#the total number of observation is 404    
          
