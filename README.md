@@ -60,3 +60,41 @@
 X[3] REFERS TO THE fourth varaible of the X dataset, 37982.312 = the condition, if the budget is less than thirty seven thousand, then it will follow this branch and vice versa.
 #the total number of observation is 404    
          
+
+
+
+              Controlling Tree growth
+              
+              
+       # Maximum number of levels in tree
+       
+![image](https://user-images.githubusercontent.com/64482231/192121858-e3cdb412-11ec-4666-8674-8241998634ce.png)
+
+
+
+
+
+
+
+
+
+
+
+        Mininum observations at internal node
+        
+        
+        
+![image](https://user-images.githubusercontent.com/64482231/192121869-7054c377-02f8-49c7-887a-09bb749375a6.png)
+
+
+
+
+
+
+
+
+
+      ## minimum observations at leaf node
+    
+    
+![image](https://user-images.githubusercontent.com/64482231/192121880-257dffaf-93d6-4a95-9418-8dfefbaaf83e.png)
