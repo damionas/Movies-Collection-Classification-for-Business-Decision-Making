@@ -5,8 +5,9 @@
               
               
               A 506 rows of movie production details was generated for a movie production company with the aim of predicting and understanding the impact various       
-              variables have on determing the collection values so the organization can know how to distribute there resources thus, improving the colleection and 
+              variables have on determing the collection values so the organization can know how to distribute there resources thus, improving the collection and 
               profits to be made for each class of movie production. 
+              Objective two is to know if the movie will win an Award at the movies show
               
               
               
@@ -16,7 +17,8 @@
       
       
       
-            A Decision Tree method and algorithm was used for the prediction. 
+            1. A Decision Tree method and algorithm was used for the prediction for objective one
+            2. Classification Tree was used to achieve objective two
             
             
             
