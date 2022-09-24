@@ -57,7 +57,7 @@
 
 
 
-X[3] REFERS TO THE fourth varaible of the X dataset, 37982.312 = the condition, if the budget is less than thirty seven thousand, then it will follow this branch and vice versa.
+X[3] REFERS TO THE fourth varaible of the X dataset, 37982.312 = the condition, if the budget is less than thirty seven thousand, then it will follow the true branch and vice versa.
 #the total number of observation is 404    
          
 
