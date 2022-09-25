@@ -4,10 +4,10 @@
               ## Business Case
               
               
-              A 506 rows of movie production details was generated for a movie production company with the aim of predicting and understanding the impact various       
+              1. A 506 rows of movie production details was generated for a movie production company with the aim of predicting and understanding the impact various       
               variables have on determing the collection values so the organization can know how to distribute there resources thus, improving the collection and 
               profits to be made for each class of movie production. 
-              Objective two is to know if the movie will win an Award at the movies show
+              2. Objective two is to know if the movie will win an Award at the movies show
               
               
               
@@ -21,7 +21,7 @@
             2. Classification Tree was used to achieve objective two
             
             
-            
+                              OBJECTIVE ONE
         ##  DETAILS AND RESULTS
         
         
@@ -100,3 +100,24 @@ X[3] REFERS TO THE fourth varaible of the X dataset, 37982.312 = the condition, 
     
     
 ![image](https://user-images.githubusercontent.com/64482231/192121880-257dffaf-93d6-4a95-9418-8dfefbaaf83e.png)
+
+
+
+
+
+                                                  OBJECTIVE TWO
+                                                  
+                                   ***Predicting the movies winning an award
+                                   
+![image](https://user-images.githubusercontent.com/64482231/192124371-538acba6-5f85-4fd9-8c1d-c7cab2764430.png)
+
+
+
+
+              Controlling tree growth
+              
+      
+      
+![image](https://user-images.githubusercontent.com/64482231/192124394-6887ab59-0135-4b47-ba0d-cb0ce59c894a.png)
+
+
