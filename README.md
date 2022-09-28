@@ -8,6 +8,7 @@
               variables have on determing the collection values so the organization can know how to distribute there resources thus, improving the collection and 
               profits to be made for each class of movie production. 
               2. Objective two is to know if the movie will win an Award at the movies show
+              3. Compare the models and look for ways to get the best models and apply them 
               
               
               
@@ -19,6 +20,7 @@
       
             1. A Decision Tree method and algorithm was used for the prediction for objective one
             2. Classification Tree was used to achieve objective two
+            3. Bagging and Random Forest techniques will be used to analyse the Data so as to give a deductive comparison with Decision tree model and Classification Tree model. 
             
             
                               OBJECTIVE ONE
@@ -121,3 +123,52 @@ X[3] REFERS TO THE fourth varaible of the X dataset, 37982.312 = the condition, 
 ![image](https://user-images.githubusercontent.com/64482231/192124394-6887ab59-0135-4b47-ba0d-cb0ce59c894a.png)
 
 
+
+                                        OBJECTIVE THREE
+                                        
+                                        
+        1.  BAGGING/ENSEMBLE TECHNIQUE              
+        
+        
+         confusion_matrix
+         array([[27, 17],
+                [22, 36]], dtype=int64)
+                
+         accuracy_score
+         0.6176470588235294
+         
+         
+         
+         #by comparing the accuracy with the previous models 
+
+          #Bagging = 61.76 percent
+              # Single Decision tree = 54.9 percent
+                  #Decison Tree after prunning = 55.8 percent
+
+        #Creating large number of tress increased the accuracy
+        
+        
+        
+        
+        2. Random Forest 
+        
+        
+        
+        confusion_matrix
+        
+        
+        array([[25, 19],
+               [18, 40]], dtype=int64)
+               
+               
+       accuracy_score
+       
+       0.6372549019607843
+       
+       
+       #by comparing the accuracy with the previous models 
+
+                #Bagging = 61.76 percent
+                # Single Decision tree = 54.9 percent
+                #Decison Tree after prunning = 55.8 percent
+                #RandomForest = 63.73 percent
