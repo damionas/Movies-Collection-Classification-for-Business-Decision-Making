@@ -172,3 +172,15 @@ X[3] REFERS TO THE fourth varaible of the X dataset, 37982.312 = the condition, 
                 # Single Decision tree = 54.9 percent
                 #Decison Tree after prunning = 55.8 percent
                 #RandomForest = 63.73 percent
+                
+                
+        3.  Using XgBoost
+        
+        
+![image](https://user-images.githubusercontent.com/64482231/192919937-b30001e0-f558-499a-b584-a28e6b3a8ff4.png)
+
+
+
+ accuracy_score
+       
+       0.5980392156862745
